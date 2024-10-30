@@ -6,9 +6,6 @@ This repository contains the starter code for ***CMU 15-441/641 Networking and t
 - `DockerFile`: Script to build the docker image for the project's environment.
 - `Makefile`: Contains rules for `make`.
 - `README.md`: Current document.
-- `cp1`: CP1 scripts and examples.
-- `cp2`: CP2 scripts and examples.
-- `cp3`: CP3 scripts and examples.
 - `src/`: Source code for the project.
     - `src/echo_client.c`: Simple echo network client.
     - `src/echo_server.c`: Simple echo network server
